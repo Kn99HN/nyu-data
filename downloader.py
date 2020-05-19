@@ -2,6 +2,9 @@ import requests as re
 import json
 import sys
 
+
+##################### SCHEDGE #####################
+
 ROOT_URL = "https://schedge.a1liu.com/"
 SUBJECT_URL = ROOT_URL + "subjects"
 sems = ["fa", "su", "sp", "ja"]
